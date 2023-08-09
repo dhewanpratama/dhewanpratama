@@ -22,7 +22,7 @@ https://github.com/dhewanpratama/File-bot)
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dax083/File-bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dhewanpratama/File-bot)</br>
 
 #### Deploy in your VPS
 ### Admin Commands
