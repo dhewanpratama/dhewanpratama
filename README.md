@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇. [Click Di Sini](
 https://github.com/dhewanpratama/File-bot)
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@vvslh_pro](https://www.telegram.dog/Sharin)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@Gisel_253](https://www.telegram.dog/Sharin)**
 
 ### Features
 - Dapat Custom Full
